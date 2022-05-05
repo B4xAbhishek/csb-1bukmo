@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://b4xabhishek.github.io/csb-1bukmo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://b4xabhishek.github.io/csb-1bukmo/static/js/main.74b512f1.chunk.js",
+    "main.js.map": "https://b4xabhishek.github.io/csb-1bukmo/static/js/main.74b512f1.chunk.js.map",
+    "runtime-main.js": "https://b4xabhishek.github.io/csb-1bukmo/static/js/runtime-main.b52c4f5a.js",
+    "runtime-main.js.map": "https://b4xabhishek.github.io/csb-1bukmo/static/js/runtime-main.b52c4f5a.js.map",
+    "static/js/2.87da5c47.chunk.js": "https://b4xabhishek.github.io/csb-1bukmo/static/js/2.87da5c47.chunk.js",
+    "static/js/2.87da5c47.chunk.js.map": "https://b4xabhishek.github.io/csb-1bukmo/static/js/2.87da5c47.chunk.js.map",
+    "index.html": "https://b4xabhishek.github.io/csb-1bukmo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://b4xabhishek.github.io/csb-1bukmo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.87da5c47.chunk.js.LICENSE.txt": "https://b4xabhishek.github.io/csb-1bukmo/static/js/2.87da5c47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b52c4f5a.js",
+    "static/js/2.87da5c47.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.74b512f1.chunk.js"
+  ]
+}
